@@ -11,22 +11,6 @@ PureEdgeSim: A simulation framework for performance evaluation of cloud, edge an
 
 ## Please Cite It As (Kindly do not use the github link):
 
-Mechalikh, C., Taktak, H., & Moussa, F. (2021). PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments. Computer Science and Information Systems, 18(1), 43-66.
-
-Bibtex:
-
-```js
-@article{mechalikh2021pureedgesim,
-  title={PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments},
-  author={Mechalikh, Charafeddine and Taktak, Hajer and Moussa, Faouzi},
-  journal={Computer Science and Information Systems},
-  volume={18}
-  number={1},
-  pages={43--66},
-  year={2021}
-}
-```
-
 ## Version 5.1 Changelog (October 18th 2022)
 
 <details>
